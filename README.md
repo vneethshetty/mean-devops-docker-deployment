@@ -75,7 +75,8 @@ The application is fully Dockerized and deployed on AWS EC2 with automated Conti
 
 ##  Clone Repository
 git clone https://github.com/vneethshetty/mean-devops-docker-deployment
-cd <project-folder>
+
+cd mean-devops-docker-deployment
 
 ##  Run Application Locally Using Docker
 
