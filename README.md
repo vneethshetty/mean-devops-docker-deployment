@@ -25,3 +25,23 @@ Run `ng serve --port 8081`
 You can modify the `src/app/services/tutorial.service.ts` file to adjust how the frontend interacts with the backend.
 
 Navigate to `http://localhost:8081/`
+
+## 📸 Screenshots
+
+### 🔹 GitHub Actions - Successful Pipeline
+![GitHub Actions](screenshots/github-actions-success.png)
+
+### 🔹 Docker Hub Images
+![Docker Hub](screenshots/dockerhub-images.png)
+
+### 🔹 AWS EC2 Instance
+![AWS EC2](screenshots/aws-ec2-instance.png)
+
+### 🔹 Live Application (Public IP)
+![Live App](screenshots/live-application.png)
+
+### 🔹 API Response
+![API Response](screenshots/api-response.png)
+
+### 🔹 Nginx Reverse Proxy Configuration
+![Nginx Config](screenshots/nginx-config.png)
